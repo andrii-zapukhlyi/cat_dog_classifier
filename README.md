@@ -1,5 +1,5 @@
-# Cat and Dog classifier
-### Cat and Dog image classifier from scratch using NumPy + CNN + Transfer Learning
+# Image classifier from scratch
+### Image classifier from scratch using NumPy + CNN + Transfer Learning
 
 ## Objective
 The primary objective of this project is to develop an effective image classification model capable of distinguishing between images of cats and dogs. Initially, the focus was on building a classifier from scratch using basic machine learning techniques and neural networks. However, limitations imposed by a small dataset leads to implementing Transfer Learning and Data Augmentation to enhance model accuracy and generalization. Ultimately, the goal is to achieve high accuracy in classifying pet images, demonstrating the effectiveness of advanced deep learning techniques.
